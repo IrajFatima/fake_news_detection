@@ -339,9 +339,6 @@ print(result)  # Output: REAL News or FAKE News
 
 Software Engineering Student | Web Development & AI Enthusiast
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/iraj-f)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/iraj-fatima)
-
 </div>
 
 ---

@@ -345,7 +345,7 @@ Software Engineering Student | Web Development & AI Enthusiast
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is for educational and portfolio purposes
 
 ---
 
